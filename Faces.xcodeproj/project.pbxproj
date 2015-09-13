@@ -13,6 +13,7 @@
 		B6DF05431BA5FA6400152CE4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6DF05421BA5FA6400152CE4 /* Images.xcassets */; };
 		B6DF05461BA5FA6400152CE4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B6DF05441BA5FA6400152CE4 /* LaunchScreen.xib */; };
 		B6DF05521BA5FA6400152CE4 /* FacesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6DF05511BA5FA6400152CE4 /* FacesTests.swift */; };
+		B6DF055C1BA5FAE800152CE4 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6DF055B1BA5FAE800152CE4 /* Profile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		B6DF054B1BA5FA6400152CE4 /* FacesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FacesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6DF05501BA5FA6400152CE4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B6DF05511BA5FA6400152CE4 /* FacesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacesTests.swift; sourceTree = "<group>"; };
+		B6DF055B1BA5FAE800152CE4 /* Profile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				B6DF053B1BA5FA6400152CE4 /* AppDelegate.swift */,
 				B6DF053D1BA5FA6400152CE4 /* ViewController.swift */,
 				B6DF053F1BA5FA6400152CE4 /* Main.storyboard */,
+				B6DF055B1BA5FAE800152CE4 /* Profile.swift */,
 				B6DF05421BA5FA6400152CE4 /* Images.xcassets */,
 				B6DF05441BA5FA6400152CE4 /* LaunchScreen.xib */,
 				B6DF05391BA5FA6400152CE4 /* Supporting Files */,
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B6DF053E1BA5FA6400152CE4 /* ViewController.swift in Sources */,
+				B6DF055C1BA5FAE800152CE4 /* Profile.swift in Sources */,
 				B6DF053C1BA5FA6400152CE4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
